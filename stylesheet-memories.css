@@ -1,0 +1,20 @@
+.memories{
+    font-size: 3.5rem;
+    font-weight: 200;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+}
+
+li p{
+    text-decoration: none;
+    color: black;
+}
+
+.footer{
+    padding:30px 205px;
+    font-size: 10px;
+    background-color: rgba(197, 104, 209, 0.44)
+}
