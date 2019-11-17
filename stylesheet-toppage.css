@@ -1,0 +1,93 @@
+html{
+    font-size: 120%;
+}
+
+body{
+    font-family:"Avenir";
+    font-size: 20px;
+    font-size: 2rem;
+
+}
+.header{
+    text-align: center;
+    margin-top: 1rem;
+    margin: 1rem;
+    font-size: 5rem;
+    font-weight: 300;
+    color:#c568d1;
+}
+.header a{
+    color:#c568d1;
+    text-decoration: none;
+}
+.header a:hover{
+    color: blueviolet;
+}
+
+.header-insta{
+    width:5rem;
+    height:auto;
+    float: right;    
+}
+.bar1{
+    display: block;
+    height: 0.1rem;
+    background-color: #c568d1;
+    border: 0;
+}
+.body{
+    text-align: center;
+}
+.items{
+    display: inline-block;
+    width: 30%
+    
+}
+.items p{
+    margin-top: 0;
+    font-size: 2rem;
+    font-weight: 200;
+    
+}
+.items a{
+    color: black;
+    text-decoration:none;
+}
+.items a:hover{
+    color: darkgray;
+}
+.about-us{
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    font-weight:200;
+}
+.about-us p{
+    margin-top: 0;
+    font-size:2rem;
+}
+.follow{
+    margin-top: 3rem;
+    font-size: 3.5rem;
+    font-weight: 200;
+}
+.follow-insta{
+    text-align: center;
+}
+.follow-insta p{
+    margin-top: 0;
+    font-size: 2rem;
+    font-weight: 200;
+}
+.follow-insta a{
+    color: black;
+    text-decoration: none;
+}
+.follow-insta a:hover{
+    color: darkgray;
+}
+.footer{
+    padding: 2rem 8rem;
+    text-align: center;
+    font-size: 0.5rem;
+    background-color: rgba(197, 104, 209, 0.44)
+}
